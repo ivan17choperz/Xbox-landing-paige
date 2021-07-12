@@ -165,16 +165,17 @@ nav .container .links-user a img:hover{
     overflow: hidden;
     display: flex;
     align-items: flex-end;
+    margin-top: 30px;
 }
 .section-1 .description .text-description .red-social img{
-    max-width: 50%;
+    max-width: 30px;
     max-height: 20%;
     margin-right: 50px;
     filter: invert(1);
 
 }
 .section-1 .description .text-description .red-social img:hover{
-    max-width: 50%;
+    max-width: 10%;
     max-height: 30%;
     margin-right: 30px;
     filter: invert(.5);
